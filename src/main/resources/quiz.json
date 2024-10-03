@@ -1,0 +1,122 @@
+[
+  {
+    "answerkey": 3,
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc testing",
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Retesting",
+    "option 4": "Sanity testing",
+    "question": "Which methodology is used to performed Maintenance testing?",
+    "option 1": "Breadth test and depth test",
+    "option 2": "Confirmation testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To ensure the software meets only technical specifications.",
+    "option 4": "To document the software development process thoroughly.",
+    "question": "What is the primary objective of software testing?",
+    "option 1": "To improve software performance by optimizing the code.",
+    "option 2": "To find gaps, errors, or missing requirements compared to the actual desires or requirements."
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Test Execution",
+    "option 4": "Requirement Analysis",
+    "question": "Acceptance criteria is written in which phase?",
+    "option 1": "Test Analysis",
+    "option 2": "Test Design"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "curiosity",
+    "option 4": "creativity",
+    "question": "To identify defects, which skill is essentially needed for a QA engineer?",
+    "option 1": "Analytical thinking",
+    "option 2": "critical thinking"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "OAT",
+    "option 4": "A\/B Testing",
+    "question": "Which test type is not under UAT?",
+    "option 1": "Alpha Testing",
+    "option 2": "Beta Testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Integration Testing",
+    "option 4": "Smoke Testing",
+    "question": "Which is called the confidence testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "You can do more effective testing",
+    "option 4": "You can find more important bugs",
+    "question": "Why test prioritization is important?",
+    "option 1": "You shorten the testing time",
+    "option 2": "You can perform the best testing within the deadline"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Only System Testing",
+    "option 4": "All testing level",
+    "question": "Equivalence Partitioning is applicable for____",
+    "option 1": "Unit Testing",
+    "option 2": "System Testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Black Box Test Design Technique",
+    "option 4": "Grey Box Test Design Technique",
+    "question": "Exploratory testing is a -----",
+    "option 1": "Experience-based Test Design Technique",
+    "option 2": "White Box Test Design Technique"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Black Box testing",
+    "option 4": "Combination of all",
+    "question": "Which testing technique is used for usability testing?",
+    "option 1": "White-box testing",
+    "option 2": "Grey box testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Found in the software; the result of an error.",
+    "option 4": "It is procedure or data definition in a computer database.",
+    "question": "Define the term failure?",
+    "option 1": "A human action that produces an incorrect result.",
+    "option 2": "Its departure from specified behavior"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Unit Testing",
+    "option 4": "None of the above",
+    "question": "Which of the below testing is executed without documentation and planning is known as?",
+    "option 1": "Regression Testing",
+    "option 2": "Adhoc Testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Bugzilla",
+    "option 4": "BugHost",
+    "question": "Which of the following tool is not an open-source tool?",
+    "option 1": "Cucumber",
+    "option 2": "Selenium"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Performance Analysis",
+    "option 4": "Validation",
+    "question": "Which of the following evaluation method is used to evaluate the quality test cases?",
+    "option 1": "Verification",
+    "option 2": "Mutation Analysis"
+  }
+]
