@@ -185,3 +185,11 @@ The `Home` class acts as the main entry point of the application. It handles use
    ```bash
    java src/main/java/Home
    ```
+### Project Demo
+
+A demo video has been recorded showcasing the execution of the project for both Admin and Student roles. You can view the step-by-step process of:
+
+- Admin logging in, adding quiz questions to the question bank, and saving them.
+- Student logging in, attending the quiz, and receiving the results.
+
+[Watch the demo video here](https://drive.google.com/drive/folders/1OV5_RGlltZVWvp-vmj86_r8JMB0MVmcs?usp=sharing).
