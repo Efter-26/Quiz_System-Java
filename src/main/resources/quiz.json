@@ -118,5 +118,141 @@
     "question": "Which of the following evaluation method is used to evaluate the quality test cases?",
     "option 1": "Verification",
     "option 2": "Mutation Analysis"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Audits and reviews to be performed by the team",
+    "option 4": "Evaluations to be performed",
+    "question": "Select which option is not true about SQA…?",
+    "option 1": "Amount of technical work to be performed",
+    "option 2": "Documents that are produced by the SQA team."
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Quality Control",
+    "option 4": "Quality of conformance",
+    "question": "Degree to which design specifications are followed in manufacturing the product is called...",
+    "option 1": "Quality Assurance",
+    "option 2": "None of the mentioned"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Unit testing",
+    "option 4": "Integration testing",
+    "question": "What are the different levels of Testing?",
+    "option 1": "All of the above",
+    "option 2": "System testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Requirement Gathering",
+    "option 4": "Testing closure",
+    "question": "Which of the following is not a part of STLC (Software Testing Life Cycle)?",
+    "option 1": "Test Design",
+    "option 2": "Testing Planning"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Test Execution Level",
+    "option 4": "Test design technique",
+    "question": "Sanity testing is a ------?",
+    "option 1": "Test Level",
+    "option 2": "Test type"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Developer's end",
+    "option 4": "User's and developer's end",
+    "question": "In which environment we can performed the Alpha testing?",
+    "option 1": "User's end",
+    "option 2": "None of the above"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Design Errors",
+    "option 4": "Procedure Errors",
+    "question": "What is the key objective of Integration testing?",
+    "option 1": "None of the mentioned",
+    "option 2": "Interface Errors"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Test execution techniques",
+    "option 4": "Test case design/ data management techniques",
+    "question": "What is error guessing in software testing?",
+    "option 1": "Test verification techniques",
+    "option 2": "Test control management techniques"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Structural testing",
+    "option 4": "Glass box testing",
+    "question": "Which of the following is not another name of white box testing?",
+    "option 1": "Behavioral testing",
+    "option 2": "None of the mentioned"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Its departure from specified behavior",
+    "option 4": "It is procedure or data definition in a computer database.",
+    "question": "Define the term failure?",
+    "option 1": "Found in the software; the result of an error.",
+    "option 2": "A human action that produces an incorrect result."
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Both 1 & 2",
+    "option 4": "Grey box testing",
+    "question": "What is component testing?",
+    "option 1": "Black box testing",
+    "option 2": "White-box testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Black-box Testing",
+    "option 4": "Dynamic Testing",
+    "question": "Which of the below testing is implemented initially?",
+    "option 1": "White-box Testing",
+    "option 2": "Static Testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Bugzilla",
+    "option 4": "BugHost",
+    "question": "Which of the following tool is not an open-source tool?",
+    "option 1": "Selenium",
+    "option 2": "Cucumber"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Recovery testing",
+    "option 4": "Random testing",
+    "question": "------testing types is not a part of system testing?",
+    "option 1": "System Testing",
+    "option 2": "Stress Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Top-down approach",
+    "option 4": "Big-bang approach",
+    "question": "Which of the following approaches are the part of Integration testing?",
+    "option 1": "Bottom-up approach",
+    "option 2": "All of the above"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Traceability",
+    "option 4": "Fixability",
+    "question": "Notifying the developers which bugs need to be fixed first is known as------.",
+    "option 1": "Priority",
+    "option 2": "Severity"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Can only be run during user acceptance testing",
+    "option 4": "Will help us to ensure unchanged areas of the software have not been affected",
+    "question": "A regression test--------?",
+    "option 1": "Will always be automated",
+    "option 2": "Will help us to ensure changed areas of the software have not been affected"
   }
 ]
